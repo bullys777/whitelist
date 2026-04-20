@@ -1,0 +1,3 @@
+# BULLYS HUB WHITELIST
+# Total: 0 HWIDs
+# Sistema automático via Discord bot
