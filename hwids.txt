@@ -1,3 +1,6 @@
 # BULLYS HUB WHITELIST
-# Total: 0 HWIDs
-# Sistema automático via Discord bot
+# Total: 1 HWIDs
+# Atualizado: 20/04/2026, 17:28:54
+# Sistema automático via Discord
+
+TESTE123456789
